@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Fernando Pozo
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Bioinformatics PhD candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: CNIO
+  url: "https://www.cnio.es/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -50,10 +50,13 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=3YLw4PQAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/fpozoc
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.com/fpozoc
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +73,12 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD candidate in Bioinformatics at [CNIO](https://www.cnio.es/en/) [Bioinformatics Unit](https://bioinformatics.cnio.es/) (Madrid, Spain). My current research interests include the application of statistical and computing techniques to solve bioinformatics and data driven problems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before having the opportunity to be included in this fantastic group, I was improving my scientific and analytics training with some internships within different environments, including pharmaceutical industry or biotechnology research. 
+
+In my previous years as a student, I joined the study of a [BSc. in Health Biology](https://www.uah.es/en/estudios/estudios-oficiales/Degree-in-Health-Biology/) (University of Alcalá) with a posterior [MSc. of Bioinformatics for Health Sciences](https://www.upf.edu/web/bioinformatics) (Pompeu Fabra University) and several technical specializations in statistics, programming and mathematics. This background has given me the opportunity to join the [PhD in Molecular Biosciences](http://ciencias.biomol.uam.es/info_PHD) (Autonomous University of Madrid)
+
+My main current research is focused on the study of the functional impact of alternative splicing at protein level. I am also currently involved as one of the members of the [GENCODE](https://www.gencodegenes.org/) project. 
+
+Some extra details are filled in my [CV](link)
