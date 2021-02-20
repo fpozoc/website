@@ -1,11 +1,11 @@
 +++
-# Accomplishments widget.
+# Certifications widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Certifications"
 subtitle = ""
 
 # Date format
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   organization_url = "https://carpentries.org/"
   title = "Software Carpentry Instructor"
   url = "https://carpentries.github.io/instructor-training/"
-  certificate_url = "data/docs/carpentry_certificate_fpozoc.pdf"
+  certificate_url = "static/admin/media/docs/carpentry_certificate_fpozoc.pdf"
   date_start = "2021-02-01"
   date_end = ""
   description = ""

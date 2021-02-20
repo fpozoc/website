@@ -45,12 +45,12 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:fpozoc@cnio.es'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:fpozoc@gmx.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/fpozoca
-- icon: graduation-cap
-  icon_pack: fa
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=3YLw4PQAAAAJ&hl=en
 - icon: gitlab
   icon_pack: fab
