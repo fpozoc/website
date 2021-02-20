@@ -22,8 +22,9 @@ bio: My research interests include bioinformatics, machine learning and genome a
 
 interests:
 - Bioinformatics
-- Artificial intelligence
+- Deep Learning
 - Genome annotation
+- Computational Modeling
 
 education:
   courses:
@@ -48,8 +49,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/fpozoca
-- icon: google-scholar
-  icon_pack: ai
+- icon: graduation-cap
+  icon_pack: fa
   link: https://scholar.google.com/citations?user=3YLw4PQAAAAJ&hl=en
 - icon: gitlab
   icon_pack: fab
@@ -57,6 +58,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/fpozoc
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/fernanpozo
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,12 +77,12 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Bioinformatics at [CNIO](https://www.cnio.es/en/) [Bioinformatics Unit](https://bioinformatics.cnio.es/) (Madrid, Spain). My current research interests include the application of statistical and computing techniques to solve bioinformatics and data driven problems.
+I am a PhD candidate in Bioinformatics at [Spanish National Cancer Research Center - CNIO](https://www.cnio.es/en/) [Bioinformatics Unit](https://bioinformatics.cnio.es/). My current research interests include the application of statistical and computing techniques to solve bioinformatics and data driven problems.
 
 Before having the opportunity to be included in this fantastic group, I was improving my scientific and analytics training with some internships within different environments, including pharmaceutical industry or biotechnology research. 
 
-In my previous years as a student, I joined the study of a [BSc. in Health Biology](https://www.uah.es/en/estudios/estudios-oficiales/Degree-in-Health-Biology/) (University of Alcalá) with a posterior [MSc. of Bioinformatics for Health Sciences](https://www.upf.edu/web/bioinformatics) (Pompeu Fabra University) and several technical specializations in statistics, programming and mathematics. This background has given me the opportunity to join the [PhD in Molecular Biosciences](http://ciencias.biomol.uam.es/info_PHD) (Autonomous University of Madrid)
+In my previous years as a student, I joined the study of a [BSc. in Health Biology](https://www.uah.es/en/estudios/estudios-oficiales/Degree-in-Health-Biology/) at [University of Alcalá](https://www.uah.es/en/) with a posterior [MSc. of Bioinformatics for Health Sciences](https://www.upf.edu/web/bioinformatics) at [Pompeu Fabra University](https://www.upf.edu/en/) and several technical specializations in statistics, programming and mathematics. This background has given me the opportunity to join the [PhD in Bioinformatics](http://ciencias.biomol.uam.es/info_PHD) at [Autonomous University of Madrid](https://www.uam.es/UAM/01-Autonomous-University-of-Madrid/1242688768755.htm?pid=1242688610441&title=Autonomous%20University%20of%20Madrid,%20Spain%20(Lead)).
 
 My main current research is focused on the study of the functional impact of alternative splicing at protein level. I am also currently involved as one of the members of the [GENCODE](https://www.gencodegenes.org/) project. 
 
-Some extra details are filled in my [CV](link)
+<!--- Some extra details are filled in my [CV](link) --->
