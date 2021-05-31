@@ -88,6 +88,6 @@ In my previous years as a student, I joined the study of a [BSc. in Health Biolo
 
 My main current research is focused on the study of the functional impact of alternative splicing at protein level. I am also currently involved as one of the members of the [GENCODE](https://www.gencodegenes.org/) project.
 
-[Here](static/media/docs/pozo_fernando_cv.pdf) is a more detailed CV.
+Here, is a more detailed [CV](https://raw.githubusercontent.com/fpozoc/website/master/static/media/docs/pozo_fernando_cv.pdf).
 
 <!--- Some extra details are filled in my [CV](link) --->
