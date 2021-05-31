@@ -86,6 +86,8 @@ Before having the opportunity to be included in this fantastic group, I was impr
 
 In my previous years as a student, I joined the study of a [BSc. in Health Biology](https://www.uah.es/en/estudios/estudios-oficiales/Degree-in-Health-Biology/) at [University of Alcalá](https://www.uah.es/en/) with a posterior [MSc. of Bioinformatics for Health Sciences](https://www.upf.edu/web/bioinformatics) at [Pompeu Fabra University](https://www.upf.edu/en/) and several technical specializations in statistics, programming and mathematics. This background has given me the opportunity to join the [PhD in Bioinformatics](http://ciencias.biomol.uam.es/info_PHD) at [Autonomous University of Madrid](https://www.uam.es/UAM/01-Autonomous-University-of-Madrid/1242688768755.htm?pid=1242688610441&title=Autonomous%20University%20of%20Madrid,%20Spain%20(Lead)).
 
-My main current research is focused on the study of the functional impact of alternative splicing at protein level. I am also currently involved as one of the members of the [GENCODE](https://www.gencodegenes.org/) project. 
+My main current research is focused on the study of the functional impact of alternative splicing at protein level. I am also currently involved as one of the members of the [GENCODE](https://www.gencodegenes.org/) project.
+
+[Here](static/media/docs/pozo_fernando_cv.pdf) is a more detailed CV.
 
 <!--- Some extra details are filled in my [CV](link) --->
