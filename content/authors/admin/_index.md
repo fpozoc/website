@@ -80,7 +80,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Bioinformatics at [Spanish National Cancer Research Center - CNIO](https://www.cnio.es/en/) [Bioinformatics Unit](https://bioinformatics.cnio.es/). My current research interests include the application of statistical and computing techniques to solve bioinformatics and data driven problems.
+I am a last year PhD candidate in Bioinformatics at [Spanish National Cancer Research Center - CNIO](https://www.cnio.es/en/) [Bioinformatics Unit](https://bioinformatics.cnio.es/). My current research interests include the application of statistical and computing techniques to solve bioinformatics and data driven problems.
 
 Before having the opportunity to be included in this fantastic group, I was improving my scientific and analytics training with some internships within different environments, including pharmaceutical industry or biotechnology research. 
 
