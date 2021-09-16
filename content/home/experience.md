@@ -18,6 +18,16 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Visiting Professor"
+  company = "Universidad Carlos III de Madrid (UC3M)"
+  company_url = "https://www.notion.so/fpozoc/Machine-Learning-in-Healthcare-cddc40ff349744a6b4b992b3fe4435a3"
+  location = ""
+  date_start = "2021-09-01"
+  date_end = ""
+  description = """ Teaching the whole subject titled "Machine Learning in Healthcare" within the last year of B.Sc. in Data Science and Engineering .
+  """
+
+[[experience]]
   title = "PhD Student"
   company = "Spanish National Cancer Research Center (CNIO)"
   company_url = "https://www.cnio.es/en/"
