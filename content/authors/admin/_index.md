@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Bioinformatics PhD candidate
+role: Bioinformatician
 
 # Organizations/Affiliations
 organizations:
