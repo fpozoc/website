@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "PhD Student"
+  title = "PhD Candidate"
   company = "Spanish National Cancer Research Center (CNIO)"
   company_url = "https://www.cnio.es/en/"
   location = ""
