@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Bioinformatician
+role: Bioinformatician and Machine Learning specialist
 
 # Organizations/Affiliations
 organizations:
