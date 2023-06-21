@@ -10,27 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: Bioinformatician and Machine Learning specialist
+role: Chief Operating Officer
 
 # Organizations/Affiliations
 organizations:
-- name: CNIO
-  url: "https://www.cnio.es/en/"
+- name: Spika Tech
+  url: "https://www.spikatech.com/en/home-english/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include bioinformatics, machine learning and genome annotation.
+bio: My research interests include innovation, bioinformatics, machine learning, startups, leadership.
 
 interests:
+- Innovation
 - Bioinformatics
-- Deep Learning
-- Genome annotation
-- Computational Modeling
+- Machine Learning
+- Startups
+- Leadership
 
 education:
   courses:
-  - course: PhD in Bioinformatics
+  - course: PhD in Bioinformatics and Machine Learning
     institution: Autonomous University of Madrid
-    year: 2018 - 2021
+    year: 2018 - 2023
   - course: MSc in Bioinformatics for Health Sciences
     institution: Pompeu Fabra University
     year: 2016 - 2018
