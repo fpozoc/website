@@ -80,12 +80,16 @@ user_groups:
 - Visitors
 ---
 
-I am a last year PhD candidate in Bioinformatics at [Spanish National Cancer Research Center - CNIO](https://www.cnio.es/en/) [Bioinformatics Unit](https://bioinformatics.cnio.es/). My current research interests include applying statistical and computing techniques to solve bioinformatics and data-driven problems. Now I am focusing my current primary research on studying the functional impact of alternative splicing at the protein level. I am also currently involved as one of the members of the [GENCODE](https://www.gencodegenes.org/) project.
+As Chief Operating Officer (COO) at [Spika Tech](https://www.spikatech.com/en/home-english/), Fernando Pozo focuses on integrating advanced technology with healthcare solutions. 
 
-From 2019, I am participating as a lecturer at the [Advanced Bioinformatics subject (year 4) - B.Sc. in Biotechnology - University Francisco de Vitoria](http://www.ufvinternational.com/en/students-studying-at-ufv/international-student-handbook/biotechnology/). Moreover, from 2021, I lead the [Machine Learning in Healthcare subject](https://aplicaciones.uc3m.es/cpa/generaFicha?&est=350&plan=392&asig=16803&idioma=2) at the [B.Sc. in Data Science and Engineering - UC3M](https://www.uc3m.es/bachelor-degree/data-science) as Visiting Professor.
+With a robust background in Bioinformatics and Machine Learning, Fernando obtained his PhD from [CNIO](https://www.cnio.es), where he effectively combined technology and healthcare. During this time, he was one of the member of the [GENCODE](https://www.gencodegenes.org) project, a reference annotation of the human and mouse genomes.
 
-In my previous years as a student, I joined the study of a [BSc. in Health Biology](https://www.uah.es/en/estudios/estudios-oficiales/Degree-in-Health-Biology/) at [University of Alcalá](https://www.uah.es/en/) with a posterior [MSc. of Bioinformatics for Health Sciences](https://www.upf.edu/web/bioinformatics) at [Pompeu Fabra University](https://www.upf.edu/en/) and several technical specializations in statistics, programming and mathematics. I was also improving my scientific and analytics training with some internships within different environments, including the pharmaceutical industry or biotechnology research. This background has allowed me to join the [PhD in Bioinformatics](http://ciencias.biomol.uam.es/info_PHD) at [Autonomous University of Madrid](https://www.uam.es/UAM/01-Autonomous-University-of-Madrid/1242688768755.htm?pid=1242688610441&title=Autonomous%20University%20of%20Madrid,%20Spain%20(Lead)).
+Previously, Fernando lectured on Machine Learning in Healthcare at the Carlos III University of Madrid, Complutense University of Madrid, and Francisco de Vitoria University, highlighting bioinformatics and AI applications in clinical fields. 
 
-If you want to discover more abotu me, here is a more detailed [CV](https://raw.githubusercontent.com/fpozoc/website/master/static/media/docs/pozo_fernando_cv.pdf).
+Fernando is a proud [University Pompeu Fabra](https://www.upf.edu/en/) alumni, where he created a strong entrepreneurial spirit and honed leadership skills, now vital in his current operational strategies and team leadership. 
+
+Additionally, Fernando has worked as consultant for health and tech companies, including Kantar Health, Atrys Health, and Lifebit, and non-profit AI organizations like START. This work illustrates his commitment to enhancing intersections between technology, healthcare, and bioinformatics.
+
+Following this presentation, for further details regarding academic qualifications and professional experience, his CV is available [here](https://docs.google.com/document/d/1_BA-e6hHv2HUai0RfcpoRBEwgSBe9J1aMlkQ02DAeAs/edit#heading=h.oneag8biugxe).
 
 <!--- Some extra details are filled in my [CV](link) --->
