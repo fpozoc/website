@@ -83,7 +83,7 @@ user_groups:
 
 As Chief Operating Officer (COO) at [Spika Tech](https://www.spikatech.com/en/home-english/), Fernando Pozo focuses on integrating advanced technology with healthcare solutions. 
 
-With a robust background in Bioinformatics and Machine Learning, Fernando obtained his PhD from [CNIO](https://www.cnio.es), where he effectively combined technology and healthcare. During this time, he was one of the member of the [GENCODE](https://www.gencodegenes.org) project, a reference annotation of the human and mouse genomes.
+With a robust background in Bioinformatics and Machine Learning, Fernando obtained his PhD from [CNIO](https://www.cnio.es), where he effectively combined technology and healthcare. During this time, he was one of the members of the [GENCODE](https://www.gencodegenes.org) project, a reference annotation of the human and mouse genomes.
 
 Previously, Fernando lectured on Machine Learning in Healthcare at the Carlos III University of Madrid, Complutense University of Madrid, and Francisco de Vitoria University, highlighting bioinformatics and AI applications in clinical fields. 
 
