@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   company_url = "https://www.notion.so/fpozoc/Machine-Learning-in-Healthcare-cddc40ff349744a6b4b992b3fe4435a3"
   location = ""
   date_start = "2021-09-01"
-  date_end = ""
+  date_end = "2022-06-30"
   description = """ Teaching the whole subject titled "Machine Learning in Healthcare" within the last year of B.Sc. in Data Science and Engineering .
   """
 
@@ -56,13 +56,13 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Lecturer"
+  title = "Lecturer and Subject Coordinator"
   company = "Universidad Francisco de Vitoria"
   company_url = "https://www.ufv.es/welcome-to-ufv-madrid/"
   location = ""
   date_start = "2018-09-01"
-  date_end = ""
-  description = """Instructor in Advanced Bioinformatics (B.Sc. in Biotechnology Year 4).
+  date_end = "2022-09-30"
+  description = """Subject: Advanced Bioinformatics (B.Sc. in Biotechnology Year 4).
   """
 
 [[experience]]
