@@ -18,6 +18,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Chief Operating Officer"
+  company = "Spika Tech"
+  company_url = "https://www.spikatech.com/en/home-english/"
+  location = ""
+  date_start = "2023-03-01"
+  date_end = ""
+  description = """ Working closely with our executive leadership team to ensure that our internal processes, infrastructure, and resources are optimized to deliver the best possible value.
+  """
+[[experience]]
+  title = "Machine Learning Engineer"
+  company = "Spika Tech"
+  company_url = "https://www.spikatech.com/en/home-english/"
+  location = ""
+  date_start = "2022-10-01"
+  date_end = "2023-03-01"
+  description = """ Working on the VR-CARDIO project, which aims to revolutionize the way cardiovascular disease is diagnosed and treated.
+  """
+[[experience]]
   title = "Visiting Professor"
   company = "Universidad Carlos III de Madrid (UC3M)"
   company_url = "https://www.notion.so/fpozoc/Machine-Learning-in-Healthcare-cddc40ff349744a6b4b992b3fe4435a3"
@@ -28,12 +46,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "PhD Candidate"
+  title = "Bioinformatics and Machine Learning Engineer"
   company = "Spanish National Cancer Research Center (CNIO)"
   company_url = "https://www.cnio.es/en/"
   location = ""
   date_start = "2018-03-01"
-  date_end = ""
+  date_end = "2022-09-30"
   description = """Refining the human genome annotations and participating in projects of GENCODE, a consortium which aims to annotate all evidence-based gene features (like genes, transcripts or coding sequences) in the entire human and mouse genomes at a high accuracy.
   """
 
