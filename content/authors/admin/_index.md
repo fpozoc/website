@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Fernando Pozo
+title: Fernando Pozo, PhD
 
 # Username (this should match the folder name)
 authors:
